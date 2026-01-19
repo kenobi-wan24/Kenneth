@@ -1,4 +1,4 @@
-# Kenneth
+# About Me
 ...
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">I'm a second year student in BSIT course</h3>
